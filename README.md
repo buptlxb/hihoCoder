@@ -9,6 +9,7 @@
 
 ## Solutions
 | # | Title | Solution |
+|---|-------|----------|
 |1|[Trie树](http://hihocoder.com/problemset/problem/1014)|[1014](1014)| 
 |2|[KMP算法](http://hihocoder.com/problemset/problem/1015)|[1015](1015)| 
 |3|[最长回文子串](http://hihocoder.com/problemset/problem/1032)|[1032](1032)| 
