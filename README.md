@@ -1,6 +1,6 @@
 # hihoCoder
 
-## Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
+Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 
 ## Features
 * Written with C/C++ (a few C++11/C++14)
@@ -17,4 +17,7 @@
 |5|[Islands Travel](http://hihocoder.com/problemset/problem/1038)|[1138](1138)| 
 |6|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](1237)| 
 |7|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](1268)| 
-|8|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](1289)| 
+|8|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](1288)| 
+|9|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](1289)| 
+|10|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](1290)| 
+|11|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](1291)| 
