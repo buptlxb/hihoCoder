@@ -53,7 +53,7 @@ bool bfs(int a, int b, int c, int n)
     return ret;
 }
 
-bool solve(int n)
+bool unbuild(int n)
 {
     memset(visited, 0, sizeof(visited));
     while (n-- > 0) {
@@ -105,7 +105,7 @@ int main(void)
                 continue;
             res = build(x, y, z);
         }
-        res = res ? solve(n) : false;
+        res = res ? unbuild(n) : false;
         cout << (res ? "Yes" : "No") << endl;
     }
 }
