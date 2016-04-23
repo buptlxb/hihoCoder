@@ -24,3 +24,4 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |12|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](1290)| 
 |13|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](1291)| 
 |14|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](1295)| 
+|15|[数论三：约瑟夫问题]|[1296](1296)| 
