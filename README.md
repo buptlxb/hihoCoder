@@ -19,15 +19,17 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |7|[字符消除](http://hihocoder.com/problemset/problem/1039)|[1039](1039)| 
 |8|[完全背包](http://hihocoder.com/problemset/problem/1043)|[1043](1043)| 
 |9|[状态压缩一](http://hihocoder.com/problemset/problem/1044)|[1044](1044)| 
-|10|[后序遍历](http://hihocoder.com/problemset/problem/1049)|[1049](1049)| 
-|11|[树中的最长路](http://hihocoder.com/problemset/problem/1050)|[1050](1050)| 
-|12|[Islands Travel](http://hihocoder.com/problemset/problem/1138)|[1138](1138)| 
-|13|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](1237)| 
-|14|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](1268)| 
-|15|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](1287)| 
-|16|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](1288)| 
-|17|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](1289)| 
-|18|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](1290)| 
-|19|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](1291)| 
-|20|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](1295)| 
-|21|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](1296)| 
+|10|[状态压缩二](http://hihocoder.com/problemset/problem/1048)|[1048](1048)| 
+|11|[后序遍历](http://hihocoder.com/problemset/problem/1049)|[1049](1049)| 
+|12|[骨牌覆盖问题一](http://hihocoder.com/problemset/problem/1143)|[1143](1143)| 
+|13|[树中的最长路](http://hihocoder.com/problemset/problem/1050)|[1050](1050)| 
+|14|[Islands Travel](http://hihocoder.com/problemset/problem/1138)|[1138](1138)| 
+|15|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](1237)| 
+|16|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](1268)| 
+|17|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](1287)| 
+|18|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](1288)| 
+|19|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](1289)| 
+|20|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](1290)| 
+|21|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](1291)| 
+|22|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](1295)| 
+|23|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](1296)| 
