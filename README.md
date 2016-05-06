@@ -24,12 +24,14 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |12|[骨牌覆盖问题一](http://hihocoder.com/problemset/problem/1143)|[1143](1143)| 
 |13|[树中的最长路](http://hihocoder.com/problemset/problem/1050)|[1050](1050)| 
 |14|[Islands Travel](http://hihocoder.com/problemset/problem/1138)|[1138](1138)| 
-|15|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](1237)| 
-|16|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](1268)| 
-|17|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](1287)| 
-|18|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](1288)| 
-|19|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](1289)| 
-|20|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](1290)| 
-|21|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](1291)| 
-|22|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](1295)| 
-|23|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](1296)| 
+|15|[骨牌覆盖问题二](http://hihocoder.com/problemset/problem/1151)|[1151](1151)| 
+|16|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](1237)| 
+|17|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](1268)| 
+|18|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](1287)| 
+|19|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](1288)| 
+|20|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](1289)| 
+|21|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](1290)| 
+|22|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](1291)| 
+|23|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](1295)| 
+|24|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](1296)| 
+|25|[数论四：扩展欧几里德](http://hihocoder.com/problemset/problem/1297) |[1297](1297)| 
