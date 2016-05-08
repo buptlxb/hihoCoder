@@ -21,17 +21,24 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |9|[状态压缩一](http://hihocoder.com/problemset/problem/1044)|[1044](1044)| 
 |10|[状态压缩二](http://hihocoder.com/problemset/problem/1048)|[1048](1048)| 
 |11|[后序遍历](http://hihocoder.com/problemset/problem/1049)|[1049](1049)| 
-|12|[骨牌覆盖问题一](http://hihocoder.com/problemset/problem/1143)|[1143](1143)| 
-|13|[树中的最长路](http://hihocoder.com/problemset/problem/1050)|[1050](1050)| 
-|14|[Islands Travel](http://hihocoder.com/problemset/problem/1138)|[1138](1138)| 
-|15|[骨牌覆盖问题二](http://hihocoder.com/problemset/problem/1151)|[1151](1151)| 
-|16|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](1237)| 
-|17|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](1268)| 
-|18|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](1287)| 
-|19|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](1288)| 
-|20|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](1289)| 
-|21|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](1290)| 
-|22|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](1291)| 
-|23|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](1295)| 
-|24|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](1296)| 
-|25|[数论四：扩展欧几里德](http://hihocoder.com/problemset/problem/1297) |[1297](1297)| 
+|12|[树中最长的路](http://hihocoder.com/problemset/problem/1050)|[1050](1050)| 
+|13|[刷油漆](http://hihocoder.com/problemset/problem/1055)|[1055](1055)| 
+|14|[最近公共祖先一](http://hihocoder.com/problemset/problem/1062)|[1062](1062)| 
+|15|[无间道之并查集](http://hihocoder.com/problemset/problem/1066)|[1066](1066)| 
+|16|[最近公共祖先二](http://hihocoder.com/problemset/problem/1067)|[1067](1067)| 
+|17|[RMQ-ST算法](http://hihocoder.com/problemset/problem/1068)|[1068](1068)| 
+|18|[最近公共祖先三](http://hihocoder.com/problemset/problem/1069)|[1069](1069)| 
+|19|[Islands Travel](http://hihocoder.com/problemset/problem/1138)|[1138](1138)| 
+|20|[骨牌覆盖问题一](http://hihocoder.com/problemset/problem/1143)|[1143](1143)| 
+|21|[骨牌覆盖问题二](http://hihocoder.com/problemset/problem/1151)|[1151](1151)| 
+|22|[骨牌覆盖问题三](http://hihocoder.com/problemset/problem/1162)|[1162](1162)| 
+|23|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](1237)| 
+|24|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](1268)| 
+|25|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](1287)| 
+|26|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](1288)| 
+|27|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](1289)| 
+|28|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](1290)| 
+|29|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](1291)| 
+|30|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](1295)| 
+|31|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](1296)| 
+|32|[数论四：扩展欧几里德](http://hihocoder.com/problemset/problem/1297) |[1297](1297)| 
