@@ -38,15 +38,31 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |26|[骨牌覆盖问题一](http://hihocoder.com/problemset/problem/1143)|[1143](solutions/1143)| 
 |27|[骨牌覆盖问题二](http://hihocoder.com/problemset/problem/1151)|[1151](solutions/1151)| 
 |28|[骨牌覆盖问题三](http://hihocoder.com/problemset/problem/1162)|[1162](solutions/1162)| 
-|29|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](solutions/1237)| 
-|30|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](solutions/1268)| 
-|31|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](solutions/1287)| 
-|32|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](solutions/1288)| 
-|33|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](solutions/1289)| 
-|34|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](solutions/1290)| 
-|35|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](solutions/1291)| 
-|36|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](solutions/1295)| 
-|37|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](solutions/1296)| 
-|38|[数论四：扩展欧几里德](http://hihocoder.com/problemset/problem/1297) |[1297](solutions/1297)| 
-|39|[数论五：欧拉函数](http://hihocoder.com/problemset/problem/1298) |[1298](solutions/1298)| 
-|40|[打折机票](http://hihocoder.com/problemset/problem/1299) |[1299](solutions/1299)| 
+|29|[拓扑排序一](http://hihocoder.com/problemset/problem/1174)|[1174](solutions/1174)| 
+|30|[拓扑排序二](http://hihocoder.com/problemset/problem/1175)|[1175](solutions/1175)| 
+|31|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](solutions/1237)| 
+|32|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](solutions/1268)| 
+|33|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](solutions/1287)| 
+|34|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](solutions/1288)| 
+|35|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](solutions/1289)| 
+|36|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](solutions/1290)| 
+|37|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](solutions/1291)| 
+|38|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](solutions/1295)| 
+|39|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](solutions/1296)| 
+|40|[数论四：扩展欧几里德](http://hihocoder.com/problemset/problem/1297) |[1297](solutions/1297)| 
+|41|[数论五：欧拉函数](http://hihocoder.com/problemset/problem/1298) |[1298](solutions/1298)| 
+|42|[打折机票](http://hihocoder.com/problemset/problem/1299) |[1299](solutions/1299)| 
+|43|[数论六：模线性方程组](http://hihocoder.com/problemset/problem/1303) |[1303](solutions/1303)| 
+|44|[探索一：24点](http://hihocoder.com/problemset/problem/1304) |[1304](solutions/1304)| 
+|45|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1309](solutions/1309)| 
+|46|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
+|47|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
+
+## [hihoCoder太阁最新面经算法竞赛2](http://hihocoder.com/contest/hihointerview7)
+
+| # | Title | Solution |
+|---|-------|----------|
+|1|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1](solutions/1309)| 
+|2|[岛屿](http://hihocoder.com/problemset/problem/1310) |[2](solutions/1310)| 
+|3|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[3](solutions/1311)| 
+
