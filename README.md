@@ -54,9 +54,13 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |42|[打折机票](http://hihocoder.com/problemset/problem/1299) |[1299](solutions/1299)| 
 |43|[数论六：模线性方程组](http://hihocoder.com/problemset/problem/1303) |[1303](solutions/1303)| 
 |44|[探索一：24点](http://hihocoder.com/problemset/problem/1304) |[1304](solutions/1304)| 
-|45|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1309](solutions/1309)| 
-|46|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
-|47|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
+|45|[探索二：骑士问题](http://hihocoder.com/problemset/problem/1308) |[1308](solutions/1308)| 
+|46|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1309](solutions/1309)| 
+|47|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
+|48|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
+|49|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
+|50|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
+|51|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
 
 ## [hihoCoder太阁最新面经算法竞赛2](http://hihocoder.com/contest/hihointerview7)
 
@@ -66,3 +70,9 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |2|[岛屿](http://hihocoder.com/problemset/problem/1310) |[2](solutions/1310)| 
 |3|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[3](solutions/1311)| 
 
+## [hihoCoder太阁最新面经算法竞赛3](http://hihocoder.com/contest/hihointerview8)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1](solutions/1318)| 
+|2|[区域周长](http://hihocoder.com/problemset/problem/1319) |[2](solutions/1319)| 
+|3|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[3](solutions/1320)| 
