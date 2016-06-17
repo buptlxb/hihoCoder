@@ -58,9 +58,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |46|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1309](solutions/1309)| 
 |47|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
 |48|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
-|49|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
-|50|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
-|51|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
+|49|[探索三：启发式探索](http://hihocoder.com/problemset/problem/1312) |[1312](solutions/1312)| 
+|50|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
+|51|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
+|52|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
 
 ## [hihoCoder太阁最新面经算法竞赛2](http://hihocoder.com/contest/hihointerview7)
 
