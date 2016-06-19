@@ -62,6 +62,9 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |50|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
 |51|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
 |52|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
+|53|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
+|54|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
+|55|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
 
 ## [hihoCoder太阁最新面经算法竞赛2](http://hihocoder.com/contest/hihointerview7)
 
@@ -77,3 +80,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |1|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1](solutions/1318)| 
 |2|[区域周长](http://hihocoder.com/problemset/problem/1319) |[2](solutions/1319)| 
 |3|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[3](solutions/1320)| 
+
+## [hihoCoder太阁最新面经算法竞赛4](http://hihocoder.com/contest/hihointerview9)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1](solutions/1322)| 
+|2|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[2](solutions/1323)| 
+|3|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[3](solutions/1324)| 
