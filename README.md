@@ -59,12 +59,13 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |47|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
 |48|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
 |49|[探索三：启发式探索](http://hihocoder.com/problemset/problem/1312) |[1312](solutions/1312)| 
-|50|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
-|51|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
-|52|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
-|53|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
-|54|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
-|55|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
+|50|[搜索四·跳舞链](http://hihocoder.com/problemset/problem/1317) |[1317](solutions/1317)| 
+|51|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
+|52|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
+|53|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
+|54|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
+|55|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
+|56|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
 
 ## [hihoCoder太阁最新面经算法竞赛2](http://hihocoder.com/contest/hihointerview7)
 
