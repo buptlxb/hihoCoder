@@ -63,9 +63,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |51|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
 |52|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
 |53|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
-|54|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
-|55|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
-|56|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
+|54|[搜索五：数独](http://hihocoder.com/problemset/problem/1321) |[1321](solutions/1321)| 
+|55|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
+|56|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
+|57|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
 
 ## [hihoCoder太阁最新面经算法竞赛2](http://hihocoder.com/contest/hihointerview7)
 

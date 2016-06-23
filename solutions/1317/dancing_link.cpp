@@ -4,8 +4,8 @@
 
 using namespace std;
 
-#define N 101
-#define M 101
+#define N 100
+#define M 100
 
 struct Node {
     Node *left, *right, *up, *down;
@@ -29,7 +29,7 @@ void init() {
 void build() {
     Node *prev = &head;
     // chain the column head
-    for (int i = 1; i <= m; ++i) {
+    for (int i = 0; i < m; ++i) {
         Node *p = &columnHead[i];
         p->reset();
         p->x = 0; p->y = i;
@@ -40,8 +40,8 @@ void build() {
         prev = p;
     }
     // allocate node for every number one in board
-    for (int i = 1; i <= n; ++i) {
-        for (int j = 1; j <= m; ++j) {
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < m; ++j) {
             if (!board[i][j])
                 continue;
             id[i][j] = new Node(i, j);
@@ -49,9 +49,9 @@ void build() {
         }
     }
     // chain the column
-    for (int j = 1; j <= m; ++j) {
+    for (int j = 0; j < m; ++j) {
         Node *prev = &columnHead[j];
-        for (int i = 1; i <= n; ++i) {
+        for (int i = 0; i < n; ++i) {
             if (!board[i][j])
                 continue;
             Node *p = id[i][j];
@@ -63,9 +63,9 @@ void build() {
         }
     }
     // chain the row
-    for (int i = 1; i <= n; ++i) {
+    for (int i = 0; i < n; ++i) {
         Node *prev = nullptr;
-        for (int j = 1; j <= m; ++j) {
+        for (int j = 0; j < m; ++j) {
             if (!board[i][j])
                 continue;
             if (prev) {
@@ -166,8 +166,8 @@ int main(void)
     cin >> t;
     while (t--) {
         cin >> n >> m;
-        for (int i = 1; i <= n; ++i) {
-            for (int j = 1; j <= m; ++j) {
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
                 cin >> board[i][j];
             }
         }
