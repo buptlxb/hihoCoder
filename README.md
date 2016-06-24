@@ -54,19 +54,29 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |42|[打折机票](http://hihocoder.com/problemset/problem/1299) |[1299](solutions/1299)| 
 |43|[数论六：模线性方程组](http://hihocoder.com/problemset/problem/1303) |[1303](solutions/1303)| 
 |44|[探索一：24点](http://hihocoder.com/problemset/problem/1304) |[1304](solutions/1304)| 
-|45|[探索二：骑士问题](http://hihocoder.com/problemset/problem/1308) |[1308](solutions/1308)| 
-|46|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1309](solutions/1309)| 
-|47|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
-|48|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
-|49|[探索三：启发式探索](http://hihocoder.com/problemset/problem/1312) |[1312](solutions/1312)| 
-|50|[搜索四·跳舞链](http://hihocoder.com/problemset/problem/1317) |[1317](solutions/1317)| 
-|51|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
-|52|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
-|53|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
-|54|[搜索五：数独](http://hihocoder.com/problemset/problem/1321) |[1321](solutions/1321)| 
-|55|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
-|56|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
-|57|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
+|45|[区间求差](http://hihocoder.com/problemset/problem/1305) |[1305](solutions/1305)| 
+|46|[股票价格](http://hihocoder.com/problemset/problem/1306) |[1306](solutions/1306)| 
+|47|[穿越禁区](http://hihocoder.com/problemset/problem/1307) |[1307](solutions/1307)| 
+|48|[探索二：骑士问题](http://hihocoder.com/problemset/problem/1308) |[1308](solutions/1308)| 
+|49|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1309](solutions/1309)| 
+|50|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
+|51|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
+|52|[探索三：启发式探索](http://hihocoder.com/problemset/problem/1312) |[1312](solutions/1312)| 
+|53|[搜索四·跳舞链](http://hihocoder.com/problemset/problem/1317) |[1317](solutions/1317)| 
+|54|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
+|55|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
+|56|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
+|57|[搜索五：数独](http://hihocoder.com/problemset/problem/1321) |[1321](solutions/1321)| 
+|58|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
+|59|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
+|60|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
+
+## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[区间求差](http://hihocoder.com/problemset/problem/1305) |[1](solutions/1305)| 
+|2|[股票价格](http://hihocoder.com/problemset/problem/1306) |[2](solutions/1306)| 
+|3|[穿越禁区](http://hihocoder.com/problemset/problem/1307) |[3](solutions/1307)| 
 
 ## [hihoCoder太阁最新面经算法竞赛2](http://hihocoder.com/contest/hihointerview7)
 
