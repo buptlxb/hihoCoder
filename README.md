@@ -73,6 +73,9 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |61|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
 |62|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
 |63|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
+|64|[有序01字符串](http://hihocoder.com/problemset/problem/1326) |[1326](solutions/1326)| 
+|65|[分隔相同字符](http://hihocoder.com/problemset/problem/1327) |[1327](solutions/1327)| 
+|66|[逃离迷宫](http://hihocoder.com/problemset/problem/1328) |[1328](solutions/1328)| 
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
@@ -102,3 +105,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |1|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1](solutions/1322)| 
 |2|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[2](solutions/1323)| 
 |3|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[3](solutions/1324)| 
+
+## [hihoCoder太阁最新面经算法竞赛5](http://hihocoder.com/contest/hihointerview10)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[有序01字符串](http://hihocoder.com/problemset/problem/1326) |[1](solutions/1326)| 
+|2|[分隔相同字符](http://hihocoder.com/problemset/problem/1327) |[2](solutions/1327)| 
+|3|[逃离迷宫](http://hihocoder.com/problemset/problem/1328) |[3](solutions/1328)| 
