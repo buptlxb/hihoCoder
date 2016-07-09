@@ -33,7 +33,7 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |21|[线段树的区间修改](http://hihocoder.com/problemset/problem/1078)|[1078](solutions/1078)| 
 |22|[离散化](http://hihocoder.com/problemset/problem/1079)|[1079](solutions/1079)| 
 |23|[更为复杂的买卖房屋姿势](http://hihocoder.com/problemset/problem/1080)|[1080](solutions/1080)| 
-|24|[最短路径一：Dijstra算法](http://hihocoder.com/problemset/problem/1081)|[1081](solutions/1081)| 
+|24|[最短路径一：Dijkstra算法](http://hihocoder.com/problemset/problem/1081)|[1081](solutions/1081)| 
 |25|[最短路径二：Floyd算法](http://hihocoder.com/problemset/problem/1089)|[1089](solutions/1089)| 
 |26|[计算](http://hihocoder.com/problemset/problem/1116)|[1116](solutions/1116)| 
 |27|[Islands Travel](http://hihocoder.com/problemset/problem/1138)|[1138](solutions/1138)| 
@@ -86,6 +86,7 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |74|[数组重排](http://hihocoder.com/problemset/problem/1330) |[1330](solutions/1330)| 
 |75|[扩展二进制数](http://hihocoder.com/problemset/problem/1331) |[1331](solutions/1331)| 
 |76|[简单计算器](http://hihocoder.com/problemset/problem/1332) |[1332](solutions/1332)| 
+|77|[平衡树：Splay2](http://hihocoder.com/problemset/problem/1333) |[1333](solutions/1333)| 
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
