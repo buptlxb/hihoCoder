@@ -87,6 +87,9 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |75|[扩展二进制数](http://hihocoder.com/problemset/problem/1331) |[1331](solutions/1331)| 
 |76|[简单计算器](http://hihocoder.com/problemset/problem/1332) |[1332](solutions/1332)| 
 |77|[平衡树：Splay2](http://hihocoder.com/problemset/problem/1333) |[1333](solutions/1333)| 
+|78|[Word Construction](http://hihocoder.com/problemset/problem/1334) |[1334](solutions/1334)| 
+|79|[Email Merge](http://hihocoder.com/problemset/problem/1335) |[1335](solutions/1335)| 
+|80|[Matrix Sum](http://hihocoder.com/problemset/problem/1336) |[1336](solutions/1336)| 
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
@@ -130,3 +133,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |1|[数组重排](http://hihocoder.com/problemset/problem/1330) |[1](solutions/1330)| 
 |2|[扩展二进制数](http://hihocoder.com/problemset/problem/1331) |[2](solutions/1331)| 
 |3|[简单计算器](http://hihocoder.com/problemset/problem/1332) |[3](solutions/1332)| 
+
+## [hihoCoder太阁最新面经算法竞赛7](http://hihocoder.com/contest/hihointerview12)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[Word Construction](http://hihocoder.com/problemset/problem/1334) |[1](solutions/1334)| 
+|2|[Email Merge](http://hihocoder.com/problemset/problem/1335) |[2](solutions/1335)| 
+|3|[Matrix Sum](http://hihocoder.com/problemset/problem/1336) |[3](solutions/1336)| 
