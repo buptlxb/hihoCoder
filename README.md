@@ -90,6 +90,7 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |78|[Word Construction](http://hihocoder.com/problemset/problem/1334) |[1334](solutions/1334)| 
 |79|[Email Merge](http://hihocoder.com/problemset/problem/1335) |[1335](solutions/1335)| 
 |80|[Matrix Sum](http://hihocoder.com/problemset/problem/1336) |[1336](solutions/1336)| 
+|81|[平衡树：SBT](http://hihocoder.com/problemset/problem/1337) |[1337](solutions/1337)| 
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
