@@ -91,6 +91,9 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |79|[Email Merge](http://hihocoder.com/problemset/problem/1335) |[1335](solutions/1335)| 
 |80|[Matrix Sum](http://hihocoder.com/problemset/problem/1336) |[1336](solutions/1336)| 
 |81|[平衡树：SBT](http://hihocoder.com/problemset/problem/1337) |[1337](solutions/1337)| 
+|82|[A Game](http://hihocoder.com/problemset/problem/1338) |[1338](solutions/1338)| 
+|83|[Dice Possibility](http://hihocoder.com/problemset/problem/1339) |[1339](solutions/1339)| 
+|84|[Robots Crossing River](http://hihocoder.com/problemset/problem/1340) |[1340](solutions/1340)| 
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
@@ -141,3 +144,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |1|[Word Construction](http://hihocoder.com/problemset/problem/1334) |[1](solutions/1334)| 
 |2|[Email Merge](http://hihocoder.com/problemset/problem/1335) |[2](solutions/1335)| 
 |3|[Matrix Sum](http://hihocoder.com/problemset/problem/1336) |[3](solutions/1336)| 
+
+## [hihoCoder太阁最新面经算法竞赛8](http://hihocoder.com/contest/hihointerview13)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[A Game](http://hihocoder.com/problemset/problem/1338) |[1](solutions/1338)| 
+|2|[Dice Possibility](http://hihocoder.com/problemset/problem/1339) |[2](solutions/1339)| 
+|3|[Robots Crossing River](http://hihocoder.com/problemset/problem/1340) |[3](solutions/1340)| 
