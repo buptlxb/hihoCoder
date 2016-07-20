@@ -94,6 +94,9 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |82|[A Game](http://hihocoder.com/problemset/problem/1338) |[1338](solutions/1338)| 
 |83|[Dice Possibility](http://hihocoder.com/problemset/problem/1339) |[1339](solutions/1339)| 
 |84|[Robots Crossing River](http://hihocoder.com/problemset/problem/1340) |[1340](solutions/1340)| 
+|85|[Constraint Checker](http://hihocoder.com/problemset/problem/1341) |[1341](solutions/1341)| 
+|86|[小h的朋友们](http://hihocoder.com/problemset/problem/1345) |[1345](solutions/1345)| 
+|87|[小h的朋友们2](http://hihocoder.com/problemset/problem/1346) |[1346](solutions/1346)| 
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
