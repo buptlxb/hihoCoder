@@ -22,81 +22,86 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |10|[状态压缩二](http://hihocoder.com/problemset/problem/1048)|[1048](solutions/1048)| 
 |11|[后序遍历](http://hihocoder.com/problemset/problem/1049)|[1049](solutions/1049)| 
 |12|[树中最长的路](http://hihocoder.com/problemset/problem/1050)|[1050](solutions/1050)| 
-|13|[刷油漆](http://hihocoder.com/problemset/problem/1055)|[1055](solutions/1055)| 
-|14|[最近公共祖先一](http://hihocoder.com/problemset/problem/1062)|[1062](solutions/1062)| 
-|15|[无间道之并查集](http://hihocoder.com/problemset/problem/1066)|[1066](solutions/1066)| 
-|16|[最近公共祖先二](http://hihocoder.com/problemset/problem/1067)|[1067](solutions/1067)| 
-|17|[RMQ-ST算法](http://hihocoder.com/problemset/problem/1068)|[1068](solutions/1068)| 
-|18|[最近公共祖先三](http://hihocoder.com/problemset/problem/1069)|[1069](solutions/1069)| 
-|19|[RMQ问题再临](http://hihocoder.com/problemset/problem/1070)|[1070](solutions/1070)| 
-|20|[RMQ问题再临-线段树](http://hihocoder.com/problemset/problem/1077)|[1077](solutions/1077)| 
-|21|[线段树的区间修改](http://hihocoder.com/problemset/problem/1078)|[1078](solutions/1078)| 
-|22|[离散化](http://hihocoder.com/problemset/problem/1079)|[1079](solutions/1079)| 
-|23|[更为复杂的买卖房屋姿势](http://hihocoder.com/problemset/problem/1080)|[1080](solutions/1080)| 
-|24|[最短路径一：Dijkstra算法](http://hihocoder.com/problemset/problem/1081)|[1081](solutions/1081)| 
-|25|[最短路径二：Floyd算法](http://hihocoder.com/problemset/problem/1089)|[1089](solutions/1089)| 
-|26|[计算](http://hihocoder.com/problemset/problem/1116)|[1116](solutions/1116)| 
-|27|[Islands Travel](http://hihocoder.com/problemset/problem/1138)|[1138](solutions/1138)| 
-|28|[骨牌覆盖问题一](http://hihocoder.com/problemset/problem/1143)|[1143](solutions/1143)| 
-|29|[骨牌覆盖问题二](http://hihocoder.com/problemset/problem/1151)|[1151](solutions/1151)| 
-|30|[骨牌覆盖问题三](http://hihocoder.com/problemset/problem/1162)|[1162](solutions/1162)| 
-|31|[拓扑排序一](http://hihocoder.com/problemset/problem/1174)|[1174](solutions/1174)| 
-|32|[拓扑排序二](http://hihocoder.com/problemset/problem/1175)|[1175](solutions/1175)| 
-|33|[欧拉路一](http://hihocoder.com/problemset/problem/1176)|[1176](solutions/1176)| 
-|34|[欧拉路二](http://hihocoder.com/problemset/problem/1181)|[1181](solutions/1181)| 
-|35|[欧拉路三](http://hihocoder.com/problemset/problem/1182)|[1182](solutions/1182)| 
-|36|[连通性一：割边和割点](http://hihocoder.com/problemset/problem/1183)|[1183](solutions/1183)| 
-|37|[连通性二：边的双连通分量](http://hihocoder.com/problemset/problem/1184)|[1184](solutions/1184)| 
-|38|[连通性三：强连通分量](http://hihocoder.com/problemset/problem/1185)|[1185](solutions/1185)| 
-|39|[连通性三：点的双连通分量](http://hihocoder.com/problemset/problem/1190)|[1190](solutions/1190)| 
-|40|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](solutions/1237)| 
-|41|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](solutions/1268)| 
-|42|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](solutions/1287)| 
-|43|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](solutions/1288)| 
-|44|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](solutions/1289)| 
-|45|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](solutions/1290)| 
-|46|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](solutions/1291)| 
-|47|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](solutions/1295)| 
-|48|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](solutions/1296)| 
-|49|[数论四：扩展欧几里德](http://hihocoder.com/problemset/problem/1297) |[1297](solutions/1297)| 
-|50|[数论五：欧拉函数](http://hihocoder.com/problemset/problem/1298) |[1298](solutions/1298)| 
-|51|[打折机票](http://hihocoder.com/problemset/problem/1299) |[1299](solutions/1299)| 
-|52|[数论六：模线性方程组](http://hihocoder.com/problemset/problem/1303) |[1303](solutions/1303)| 
-|53|[探索一：24点](http://hihocoder.com/problemset/problem/1304) |[1304](solutions/1304)| 
-|54|[区间求差](http://hihocoder.com/problemset/problem/1305) |[1305](solutions/1305)| 
-|55|[股票价格](http://hihocoder.com/problemset/problem/1306) |[1306](solutions/1306)| 
-|56|[穿越禁区](http://hihocoder.com/problemset/problem/1307) |[1307](solutions/1307)| 
-|57|[探索二：骑士问题](http://hihocoder.com/problemset/problem/1308) |[1308](solutions/1308)| 
-|58|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1309](solutions/1309)| 
-|59|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
-|60|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
-|61|[探索三：启发式探索](http://hihocoder.com/problemset/problem/1312) |[1312](solutions/1312)| 
-|62|[搜索四：跳舞链](http://hihocoder.com/problemset/problem/1317) |[1317](solutions/1317)| 
-|63|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
-|64|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
-|65|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
-|66|[搜索五：数独](http://hihocoder.com/problemset/problem/1321) |[1321](solutions/1321)| 
-|67|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
-|68|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
-|69|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
-|70|[有序01字符串](http://hihocoder.com/problemset/problem/1326) |[1326](solutions/1326)| 
-|71|[分隔相同字符](http://hihocoder.com/problemset/problem/1327) |[1327](solutions/1327)| 
-|72|[逃离迷宫](http://hihocoder.com/problemset/problem/1328) |[1328](solutions/1328)| 
-|73|[平衡树Splay](http://hihocoder.com/problemset/problem/1329) |[1329](solutions/1329)| 
-|74|[数组重排](http://hihocoder.com/problemset/problem/1330) |[1330](solutions/1330)| 
-|75|[扩展二进制数](http://hihocoder.com/problemset/problem/1331) |[1331](solutions/1331)| 
-|76|[简单计算器](http://hihocoder.com/problemset/problem/1332) |[1332](solutions/1332)| 
-|77|[平衡树：Splay2](http://hihocoder.com/problemset/problem/1333) |[1333](solutions/1333)| 
-|78|[Word Construction](http://hihocoder.com/problemset/problem/1334) |[1334](solutions/1334)| 
-|79|[Email Merge](http://hihocoder.com/problemset/problem/1335) |[1335](solutions/1335)| 
-|80|[Matrix Sum](http://hihocoder.com/problemset/problem/1336) |[1336](solutions/1336)| 
-|81|[平衡树：SBT](http://hihocoder.com/problemset/problem/1337) |[1337](solutions/1337)| 
-|82|[A Game](http://hihocoder.com/problemset/problem/1338) |[1338](solutions/1338)| 
-|83|[Dice Possibility](http://hihocoder.com/problemset/problem/1339) |[1339](solutions/1339)| 
-|84|[Robots Crossing River](http://hihocoder.com/problemset/problem/1340) |[1340](solutions/1340)| 
-|85|[Constraint Checker](http://hihocoder.com/problemset/problem/1341) |[1341](solutions/1341)| 
-|86|[小h的朋友们](http://hihocoder.com/problemset/problem/1345) |[1345](solutions/1345)| 
-|87|[小h的朋友们2](http://hihocoder.com/problemset/problem/1346) |[1346](solutions/1346)| 
+|13|[补提交卡](http://hihocoder.com/problemset/problem/1051)|[1051](solutions/1051)| 
+|14|[刷油漆](http://hihocoder.com/problemset/problem/1055)|[1055](solutions/1055)| 
+|15|[最近公共祖先一](http://hihocoder.com/problemset/problem/1062)|[1062](solutions/1062)| 
+|16|[无间道之并查集](http://hihocoder.com/problemset/problem/1066)|[1066](solutions/1066)| 
+|17|[最近公共祖先二](http://hihocoder.com/problemset/problem/1067)|[1067](solutions/1067)| 
+|18|[RMQ-ST算法](http://hihocoder.com/problemset/problem/1068)|[1068](solutions/1068)| 
+|19|[最近公共祖先三](http://hihocoder.com/problemset/problem/1069)|[1069](solutions/1069)| 
+|20|[RMQ问题再临](http://hihocoder.com/problemset/problem/1070)|[1070](solutions/1070)| 
+|21|[RMQ问题再临-线段树](http://hihocoder.com/problemset/problem/1077)|[1077](solutions/1077)| 
+|22|[线段树的区间修改](http://hihocoder.com/problemset/problem/1078)|[1078](solutions/1078)| 
+|23|[离散化](http://hihocoder.com/problemset/problem/1079)|[1079](solutions/1079)| 
+|24|[更为复杂的买卖房屋姿势](http://hihocoder.com/problemset/problem/1080)|[1080](solutions/1080)| 
+|25|[最短路径一：Dijkstra算法](http://hihocoder.com/problemset/problem/1081)|[1081](solutions/1081)| 
+|26|[然则沼跃鱼早就看穿了一切](http://hihocoder.com/problemset/problem/1082)|[1082](solutions/1082)| 
+|27|[最短路径二：Floyd算法](http://hihocoder.com/problemset/problem/1089)|[1089](solutions/1089)| 
+|28|[Lost in the City](http://hihocoder.com/problemset/problem/1094)|[1094](solutions/1094)| 
+|29|[小Hi小Ho的惊天大作战：扫雷一](http://hihocoder.com/problemset/problem/1114)|[1114](solutions/1114)| 
+|30|[计算](http://hihocoder.com/problemset/problem/1116)|[1116](solutions/1116)| 
+|31|[小Hi小Ho的惊天大作战：扫雷二](http://hihocoder.com/problemset/problem/1119)|[1119](solutions/1119)| 
+|32|[Islands Travel](http://hihocoder.com/problemset/problem/1138)|[1138](solutions/1138)| 
+|33|[骨牌覆盖问题一](http://hihocoder.com/problemset/problem/1143)|[1143](solutions/1143)| 
+|34|[骨牌覆盖问题二](http://hihocoder.com/problemset/problem/1151)|[1151](solutions/1151)| 
+|35|[骨牌覆盖问题三](http://hihocoder.com/problemset/problem/1162)|[1162](solutions/1162)| 
+|36|[拓扑排序一](http://hihocoder.com/problemset/problem/1174)|[1174](solutions/1174)| 
+|37|[拓扑排序二](http://hihocoder.com/problemset/problem/1175)|[1175](solutions/1175)| 
+|38|[欧拉路一](http://hihocoder.com/problemset/problem/1176)|[1176](solutions/1176)| 
+|39|[欧拉路二](http://hihocoder.com/problemset/problem/1181)|[1181](solutions/1181)| 
+|40|[欧拉路三](http://hihocoder.com/problemset/problem/1182)|[1182](solutions/1182)| 
+|41|[连通性一：割边和割点](http://hihocoder.com/problemset/problem/1183)|[1183](solutions/1183)| 
+|42|[连通性二：边的双连通分量](http://hihocoder.com/problemset/problem/1184)|[1184](solutions/1184)| 
+|43|[连通性三：强连通分量](http://hihocoder.com/problemset/problem/1185)|[1185](solutions/1185)| 
+|44|[连通性三：点的双连通分量](http://hihocoder.com/problemset/problem/1190)|[1190](solutions/1190)| 
+|45|[Farthest Point](http://hihocoder.com/problemset/problem/1237)|[1237](solutions/1237)| 
+|46|[九宫](http://hihocoder.com/problemset/problem/1268)|[1268](solutions/1268)| 
+|47|[数论一：Miler-Rabin质数测试](http://hihocoder.com/problemset/problem/1287)|[1287](solutions/1287)| 
+|48|[Font Size](http://hihocoder.com/problemset/problem/1288) |[1288](solutions/1288)| 
+|49|[403 Forbidden](http://hihocoder.com/problemset/problem/1289) |[1289](solutions/1289)| 
+|50|[Demo Day](http://hihocoder.com/problemset/problem/1290) |[1290](solutions/1290)| 
+|51|[Building in Sandbox](http://hihocoder.com/problemset/problem/1291) |[1291](solutions/1291)| 
+|52|[数论二：Eular质数筛选](http://hihocoder.com/problemset/problem/1295) |[1295](solutions/1295)| 
+|53|[数论三：约瑟夫问题](http://hihocoder.com/problemset/problem/1296) |[1296](solutions/1296)| 
+|54|[数论四：扩展欧几里德](http://hihocoder.com/problemset/problem/1297) |[1297](solutions/1297)| 
+|55|[数论五：欧拉函数](http://hihocoder.com/problemset/problem/1298) |[1298](solutions/1298)| 
+|56|[打折机票](http://hihocoder.com/problemset/problem/1299) |[1299](solutions/1299)| 
+|57|[数论六：模线性方程组](http://hihocoder.com/problemset/problem/1303) |[1303](solutions/1303)| 
+|58|[探索一：24点](http://hihocoder.com/problemset/problem/1304) |[1304](solutions/1304)| 
+|59|[区间求差](http://hihocoder.com/problemset/problem/1305) |[1305](solutions/1305)| 
+|60|[股票价格](http://hihocoder.com/problemset/problem/1306) |[1306](solutions/1306)| 
+|61|[穿越禁区](http://hihocoder.com/problemset/problem/1307) |[1307](solutions/1307)| 
+|62|[探索二：骑士问题](http://hihocoder.com/problemset/problem/1308) |[1308](solutions/1308)| 
+|63|[任务分配](http://hihocoder.com/problemset/problem/1309) |[1309](solutions/1309)| 
+|64|[岛屿](http://hihocoder.com/problemset/problem/1310) |[1310](solutions/1310)| 
+|65|[二进制小数](http://hihocoder.com/problemset/problem/1311) |[1311](solutions/1311)| 
+|66|[探索三：启发式探索](http://hihocoder.com/problemset/problem/1312) |[1312](solutions/1312)| 
+|67|[搜索四：跳舞链](http://hihocoder.com/problemset/problem/1317) |[1317](solutions/1317)| 
+|68|[非法二进制数](http://hihocoder.com/problemset/problem/1318) |[1318](solutions/1318)| 
+|69|[区域周长](http://hihocoder.com/problemset/problem/1319) |[1319](solutions/1319)| 
+|70|[压缩字符串](http://hihocoder.com/problemset/problem/1320) |[1320](solutions/1320)| 
+|71|[搜索五：数独](http://hihocoder.com/problemset/problem/1321) |[1321](solutions/1321)| 
+|72|[树结构判定](http://hihocoder.com/problemset/problem/1322) |[1322](solutions/1322)| 
+|73|[回文字符串](http://hihocoder.com/problemset/problem/1323) |[1323](solutions/1323)| 
+|74|[希尔伯特曲线](http://hihocoder.com/problemset/problem/1324) |[1324](solutions/1324)| 
+|75|[有序01字符串](http://hihocoder.com/problemset/problem/1326) |[1326](solutions/1326)| 
+|76|[分隔相同字符](http://hihocoder.com/problemset/problem/1327) |[1327](solutions/1327)| 
+|77|[逃离迷宫](http://hihocoder.com/problemset/problem/1328) |[1328](solutions/1328)| 
+|78|[平衡树Splay](http://hihocoder.com/problemset/problem/1329) |[1329](solutions/1329)| 
+|79|[数组重排](http://hihocoder.com/problemset/problem/1330) |[1330](solutions/1330)| 
+|80|[扩展二进制数](http://hihocoder.com/problemset/problem/1331) |[1331](solutions/1331)| 
+|81|[简单计算器](http://hihocoder.com/problemset/problem/1332) |[1332](solutions/1332)| 
+|82|[平衡树：Splay2](http://hihocoder.com/problemset/problem/1333) |[1333](solutions/1333)| 
+|83|[Word Construction](http://hihocoder.com/problemset/problem/1334) |[1334](solutions/1334)| 
+|84|[Email Merge](http://hihocoder.com/problemset/problem/1335) |[1335](solutions/1335)| 
+|85|[Matrix Sum](http://hihocoder.com/problemset/problem/1336) |[1336](solutions/1336)| 
+|86|[平衡树：SBT](http://hihocoder.com/problemset/problem/1337) |[1337](solutions/1337)| 
+|87|[A Game](http://hihocoder.com/problemset/problem/1338) |[1338](solutions/1338)| 
+|88|[Dice Possibility](http://hihocoder.com/problemset/problem/1339) |[1339](solutions/1339)| 
+|89|[Robots Crossing River](http://hihocoder.com/problemset/problem/1340) |[1340](solutions/1340)| 
+|90|[Constraint Checker](http://hihocoder.com/problemset/problem/1341) |[1341](solutions/1341)| 
+|91|[小h的朋友们](http://hihocoder.com/problemset/problem/1345) |[1345](solutions/1345)| 
+|92|[小h的朋友们2](http://hihocoder.com/problemset/problem/1346) |[1346](solutions/1346)| 
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
