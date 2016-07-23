@@ -101,7 +101,7 @@ if __name__ == '__main__':
 epilog="""examples:
   """)
 
-    parser.add_argument("-n", "--number", type=int, metavar="<number>", required=True, help="Specify the question number")
+    parser.add_argument("-n", "--number", type=str, metavar="<number>", required=True, help="Specify the question number")
     parser.add_argument("-t", "--title", type=str, metavar="<title>", required=True, help="Specify the question title")
 
     args = parser.parse_args(sys.argv[1:])
