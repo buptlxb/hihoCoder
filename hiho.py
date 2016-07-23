@@ -105,8 +105,11 @@ epilog="""examples:
     parser.add_argument("-t", "--title", type=str, metavar="<title>", required=True, help="Specify the question title")
 
     args = parser.parse_args(sys.argv[1:])
+    args.title = args.title.decode('utf-8')
 
     r = ReadMe(r'./README.md')
     if r.add_solution(args.title, args.number):
         print 'Add success'
+    else:
+        print '{title}({number:d}) is already solved.'.format(title=args.title, number=args.number)
     r.write()
