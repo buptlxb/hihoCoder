@@ -105,6 +105,7 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |93|[Constraint Checker](http://hihocoder.com/problemset/problem/1341)|[1341](solutions/1341)|
 |94|[小h的朋友们](http://hihocoder.com/problemset/problem/1345)|[1345](solutions/1345)|
 |95|[小h的朋友们2](http://hihocoder.com/problemset/problem/1346)|[1346](solutions/1346)|
+|96|[Nature Numbers](http://hihocoder.com/problemset/problem/1349)|[1349](solutions/1349)|
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
@@ -162,3 +163,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |1|[A Game](http://hihocoder.com/problemset/problem/1338) |[1](solutions/1338)| 
 |2|[Dice Possibility](http://hihocoder.com/problemset/problem/1339) |[2](solutions/1339)| 
 |3|[Robots Crossing River](http://hihocoder.com/problemset/problem/1340) |[3](solutions/1340)| 
+
+## [hihoCoder太阁最新面经算法竞赛9](http://hihocoder.com/contest/hihointerview14)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[Browser Caching](http://hihocoder.com/problemset/problem/1086)|[1](solutions/1086)|
+|2|[滑动解锁](http://hihocoder.com/problemset/problem/1054)|[2](solutions/1054)|
+|3|[Nature Numbers](http://hihocoder.com/problemset/problem/1349)|[3](solutions/1349)|
