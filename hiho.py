@@ -111,5 +111,5 @@ epilog="""examples:
     if r.add_solution(args.title, args.number):
         print 'Add success'
     else:
-        print '{title}({number:d}) is already solved.'.format(title=args.title, number=args.number)
+        print '{title}({number}) is already solved.'.format(title=args.title.encode('utf-8'), number=args.number)
     r.write()
