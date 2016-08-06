@@ -116,6 +116,9 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |104|[小h的朋友们](http://hihocoder.com/problemset/problem/1345)|[1345](solutions/1345)|
 |105|[小h的朋友们2](http://hihocoder.com/problemset/problem/1346)|[1346](solutions/1346)|
 |106|[Nature Numbers](http://hihocoder.com/problemset/problem/1349)|[1349](solutions/1349)|
+|107|[Binary Watch](http://hihocoder.com/problemset/problem/1350)|[1350](solutions/1350)|
+|108|[Popular Products](http://hihocoder.com/problemset/problem/1351)|[1351](solutions/1351)|
+|109|[Counting Islands II](http://hihocoder.com/problemset/problem/1352)|[1352](solutions/1352)|
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
