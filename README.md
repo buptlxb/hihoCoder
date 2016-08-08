@@ -196,6 +196,8 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |3|[Counting Islands II](http://hihocoder.com/problemset/problem/1352)|[3](solutions/1352)|
 
 ## [offer收割编程练习赛4](http://hihocoder.com/contest/hihointerview16)
+| # | Title | Solution |
+|---|-------|----------|
 |1|[满减优惠](http://hihocoder.com/problemset/problem/1353)|[1](solutions/1353)|
 |2|[积水的城市](http://hihocoder.com/problemset/problem/1354)|[2](solutions/1354)|
 |3|[罚抄一百遍](http://hihocoder.com/problemset/problem/1355)|[3](solutions/1355)|

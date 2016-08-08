@@ -44,7 +44,6 @@ bool solve(vector<int> &s)
 
 int main(void)
 {
-    string s;
     int n;
     cin >> n;
     vector<int> nums(n);
