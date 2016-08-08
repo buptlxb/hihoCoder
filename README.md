@@ -119,6 +119,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |107|[Binary Watch](http://hihocoder.com/problemset/problem/1350)|[1350](solutions/1350)|
 |108|[Popular Products](http://hihocoder.com/problemset/problem/1351)|[1351](solutions/1351)|
 |109|[Counting Islands II](http://hihocoder.com/problemset/problem/1352)|[1352](solutions/1352)|
+|110|[满减优惠](http://hihocoder.com/problemset/problem/1353)|[1353](solutions/1353)|
+|111|[积水的城市](http://hihocoder.com/problemset/problem/1354)|[1354](solutions/1354)|
+|112|[罚抄一百遍](http://hihocoder.com/problemset/problem/1355)|[1355](solutions/1355)|
+|113|[分隔相同整数](http://hihocoder.com/problemset/problem/1356)|[1356](solutions/1356)|
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
@@ -183,3 +187,16 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |1|[Browser Caching](http://hihocoder.com/problemset/problem/1086)|[1](solutions/1086)|
 |2|[滑动解锁](http://hihocoder.com/problemset/problem/1054)|[2](solutions/1054)|
 |3|[Nature Numbers](http://hihocoder.com/problemset/problem/1349)|[3](solutions/1349)|
+
+## [hihoCoder太阁最新面经算法竞赛10](http://hihocoder.com/contest/hihointerview15)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[Binary Watch](http://hihocoder.com/problemset/problem/1350)|[1](solutions/1350)|
+|2|[Popular Products](http://hihocoder.com/problemset/problem/1351)|[2](solutions/1351)|
+|3|[Counting Islands II](http://hihocoder.com/problemset/problem/1352)|[3](solutions/1352)|
+
+## [offer收割编程练习赛4](http://hihocoder.com/contest/hihointerview16)
+|1|[满减优惠](http://hihocoder.com/problemset/problem/1353)|[1](solutions/1353)|
+|2|[积水的城市](http://hihocoder.com/problemset/problem/1354)|[2](solutions/1354)|
+|3|[罚抄一百遍](http://hihocoder.com/problemset/problem/1355)|[3](solutions/1355)|
+|4|[分隔相同整数](http://hihocoder.com/problemset/problem/1356)|[4](solutions/1356)|
