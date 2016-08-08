@@ -30,10 +30,7 @@ int main(void)
     unordered_map<int, pair<int, long long>> dict;
     long long x = 1;
     int y = -1;
-    ncopy(nums, 1, m, x, y);
-    dict.emplace(y, make_pair(1, x));
-
-    for (int i = 2; i <= n; ++i) {
+    for (int i = 1; i <= n; ++i) {
         ncopy(nums, 1, m, x, y);
         if (dict.find(y) != dict.end()) {
             long long remain = (n - i) % (i - dict[y].first);
@@ -41,7 +38,7 @@ int main(void)
             ncopy(nums, remain, m, x, y);
             break;
         }
-        dict.emplace(y, make_pair(1, x));
+        dict.emplace(y, make_pair(i, x));
     }
 
     cout << x << ' ' << y << endl;
