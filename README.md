@@ -123,6 +123,8 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |111|[积水的城市](http://hihocoder.com/problemset/problem/1354)|[1354](solutions/1354)|
 |112|[罚抄一百遍](http://hihocoder.com/problemset/problem/1355)|[1355](solutions/1355)|
 |113|[分隔相同整数](http://hihocoder.com/problemset/problem/1356)|[1356](solutions/1356)|
+|114|[小P的强力值](http://hihocoder.com/problemset/problem/1358)|[1358](solutions/1358)|
+|115|[逆序单词](http://hihocoder.com/problemset/problem/1366)|[1366](solutions/1366)|
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
