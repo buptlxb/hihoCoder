@@ -126,6 +126,9 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |114|[小P的强力值](http://hihocoder.com/problemset/problem/1358)|[1358](solutions/1358)|
 |115|[图片排版](http://hihocoder.com/problemset/problem/1365)|[1365](solutions/1365)|
 |116|[逆序单词](http://hihocoder.com/problemset/problem/1366)|[1366](solutions/1366)|
+|117|[F1 Score](http://hihocoder.com/problemset/problem/1522)|[1522](solutions/1522)|
+|118|[数组重排2](http://hihocoder.com/problemset/problem/1523)|[1523](solutions/1523)|
+|119|[逆序对](http://hihocoder.com/problemset/problem/1524)|[1524](solutions/1524)|
 
 ## [hihoCoder太阁最新面经算法竞赛1](http://hihocoder.com/contest/hihointerview6)
 | # | Title | Solution |
@@ -205,3 +208,10 @@ Solutions to problems on [hihocoder](http://hihocoder.com/hiho)
 |2|[积水的城市](http://hihocoder.com/problemset/problem/1354)|[2](solutions/1354)|
 |3|[罚抄一百遍](http://hihocoder.com/problemset/problem/1355)|[3](solutions/1355)|
 |4|[分隔相同整数](http://hihocoder.com/problemset/problem/1356)|[4](solutions/1356)|
+
+## [offer收割编程练习赛17](http://hihocoder.com/contest/offers17)
+| # | Title | Solution |
+|---|-------|----------|
+|1|[F1 Score](http://hihocoder.com/problemset/problem/1522)|[1](solutions/1522)|
+|2|[数组重排2](http://hihocoder.com/problemset/problem/1523)|[2](solutions/1523)|
+|3|[逆序对](http://hihocoder.com/problemset/problem/1524)|[3](solutions/1524)|
